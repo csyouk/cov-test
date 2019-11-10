@@ -8,3 +8,7 @@ def test_hello_world():
 
 def test_name():
     assert 'youk' == name()
+
+
+def test_name2():
+    assert 'youk' == name()
